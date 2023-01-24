@@ -1,3 +1,4 @@
+
 class int(int):
     def __init__(self, value=None) -> None:
         super().__init__()

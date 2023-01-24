@@ -21,4 +21,3 @@ class std:
     cout = cout()
     cin = cin()
     endl = endl()
-
