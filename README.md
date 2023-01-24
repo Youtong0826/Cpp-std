@@ -13,7 +13,7 @@ Creat a Python file that under this folder and put in some code.
 ### Require
 * [Python](https://www.python.org/)
 
-## Support type(Data type)
+### Support type(Data type)
 * [int](https://docs.python.org/zh-tw/3/library/functions.html?highlight=int#int)
 * [str](https://docs.python.org/zh-tw/3/library/stdtypes.html?highlight=str#str)
 
