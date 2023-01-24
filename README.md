@@ -19,7 +19,7 @@ Creat a Python file that under this folder and put in some code.
 
 ### Example code
 
-These code are all in test.py
+These code are all in [test.py](./test.py)
 
 ```py
 from std import * 
