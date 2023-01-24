@@ -19,7 +19,7 @@ Creat a Python file that under this folder and put in some code.
 ### Example code
 
 ```py
-from std import * #using namespace std;
+from std import * 
 
 name = variable() # declare a variable "name" (NoneType)
 age = variable() # declare a variable "age" (NoneType)
