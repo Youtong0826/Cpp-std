@@ -13,7 +13,7 @@ Python
 ### Example Code
 
 ```py
-from std import * #using namespace std;
+from std import * 
 
 name = variable() # declare a variable "name" (NoneType)
 age = variable() # declare a variable "age" (NoneType)
