@@ -42,7 +42,7 @@ std.cout << str("What's your name? ")
 std.cin >> name
 std.cout << str("What's your age? ")
 std.cin >> age
-std.cout << str("Hello, ") << name << str("!") << std.endl << str("You're ")    << age << str(" years old!")
+std.cout << str("Hello, ") << name << str("!") << std.endl << str("You're ") << age << str(" years old!")
 ```
 or this. (need to create object)
 ```py
