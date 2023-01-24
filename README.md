@@ -1,16 +1,22 @@
 # Python C++/std #
 
 C++ standard library emulated by Python
+And this makes Python a strongly typed language
 
-雖然有很多人做過了 但我還是想試著做做看w
+
+(雖然有很多人做過了 但我還是想試著做做看w)
 
 ## Usage
 Creat a Python file that under this folder and put in some code.
 
 ### Require
-Python
+* [Python](https://www.python.org/)
 
-### Example Code
+##Support type(Data type)
+* [int](https://docs.python.org/zh-tw/3/library/functions.html?highlight=int#int)
+* [str](https://docs.python.org/zh-tw/3/library/stdtypes.html?highlight=str#str)
+
+### Example code
 
 ```py
 from std import * #using namespace std;
