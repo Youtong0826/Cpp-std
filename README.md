@@ -52,6 +52,8 @@ var = variable(str("Hello World"))
 cout() << var
 ```
 
+These code are all in test.py
+
 
 
 
