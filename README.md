@@ -1,7 +1,7 @@
 # Python C++/std #
 
-
 C++ standard library emulated by Python
+
 and this makes Python a strongly typed language
 
 
