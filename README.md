@@ -1,7 +1,8 @@
 # Python C++/std #
 
+
 C++ standard library emulated by Python
-And this makes Python a strongly typed language
+and this makes Python a strongly typed language
 
 
 (雖然有很多人做過了 但我還是想試著做做看w)
@@ -17,6 +18,8 @@ Creat a Python file that under this folder and put in some code.
 * [str](https://docs.python.org/zh-tw/3/library/stdtypes.html?highlight=str#str)
 
 ### Example code
+
+These code are all in test.py
 
 ```py
 from std import * 
@@ -59,10 +62,3 @@ from std import cout
 var = variable(str("Hello World"))
 cout() << var
 ```
-
-These code are all in test.py
-
-
-
-
-
