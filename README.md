@@ -2,8 +2,6 @@
 
 C++ standard library emulated by Python
 
-and this makes Python a strongly typed language
-
 
 (雖然有很多人做過了 但我還是想試著做做看w)
 
